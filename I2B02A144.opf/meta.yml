@@ -1,0 +1,24 @@
+id: I2B02A144
+initial_creation_type: ebook
+source_metadata:
+  id: RDI-SS-28
+  title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
+  author: མཛད་པ་པོ། མཁས་གྲུབ་རཱ་ག་ཨ་སྱ།
+  authors: &id001
+  - མཛད་པ་པོ། མཁས་གྲུབ་རཱ་ག་ཨ་སྱ།
+  sku: RDI-SS-28
+  cover: RDI-SS-28.jpg
+  volume: {}
+ebook_metadata:
+  title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
+  authors: *id001
+  sku: RDI-SS-28
+  cover: RDI-SS-28.jpg
+layers:
+- Author
+- BookNumber
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
